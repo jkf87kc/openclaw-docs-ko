@@ -82,7 +82,7 @@ export default defineConfig({
   ],
 
   sitemap: {
-    hostname: 'https://jkf87.github.io/openclaw-docs-ko/',
+    hostname: 'https://jkf87kc.github.io/openclaw-docs-ko/',
   },
 
   themeConfig: {

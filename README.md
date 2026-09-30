@@ -4,7 +4,7 @@
 
 ## 📚 문서 보기
 
-**[https://jkf87.github.io/openclaw-docs-ko/](https://jkf87.github.io/openclaw-docs-ko/)**
+**[https://jkf87kc.github.io/openclaw-docs-ko/](https://jkf87kc.github.io/openclaw-docs-ko/)**
 
 Discord, Slack, Telegram, WhatsApp, iMessage 등 20여 개 채널에 AI 에이전트를 연결하는 자체 호스팅 게이트웨이 OpenClaw의 전체 문서를 한국어로 제공합니다.
 
